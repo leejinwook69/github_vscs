@@ -1,0 +1,14 @@
+Z:\DevResult\git\labtop\github_vscs\cs1\CS1\bin\Debug\netcoreapp3.1\CS1.exe
+Z:\DevResult\git\labtop\github_vscs\cs1\CS1\bin\Debug\netcoreapp3.1\CS1.deps.json
+Z:\DevResult\git\labtop\github_vscs\cs1\CS1\bin\Debug\netcoreapp3.1\CS1.runtimeconfig.json
+Z:\DevResult\git\labtop\github_vscs\cs1\CS1\bin\Debug\netcoreapp3.1\CS1.runtimeconfig.dev.json
+Z:\DevResult\git\labtop\github_vscs\cs1\CS1\bin\Debug\netcoreapp3.1\CS1.dll
+Z:\DevResult\git\labtop\github_vscs\cs1\CS1\bin\Debug\netcoreapp3.1\CS1.pdb
+Z:\DevResult\git\labtop\github_vscs\cs1\CS1\obj\Debug\netcoreapp3.1\CS1.csproj.AssemblyReference.cache
+Z:\DevResult\git\labtop\github_vscs\cs1\CS1\obj\Debug\netcoreapp3.1\CS1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\DevResult\git\labtop\github_vscs\cs1\CS1\obj\Debug\netcoreapp3.1\CS1.AssemblyInfoInputs.cache
+Z:\DevResult\git\labtop\github_vscs\cs1\CS1\obj\Debug\netcoreapp3.1\CS1.AssemblyInfo.cs
+Z:\DevResult\git\labtop\github_vscs\cs1\CS1\obj\Debug\netcoreapp3.1\CS1.csproj.CoreCompileInputs.cache
+Z:\DevResult\git\labtop\github_vscs\cs1\CS1\obj\Debug\netcoreapp3.1\CS1.dll
+Z:\DevResult\git\labtop\github_vscs\cs1\CS1\obj\Debug\netcoreapp3.1\CS1.pdb
+Z:\DevResult\git\labtop\github_vscs\cs1\CS1\obj\Debug\netcoreapp3.1\CS1.genruntimeconfig.cache
