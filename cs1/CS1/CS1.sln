@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS1", "CS1.csproj", "{AD20FA90-EADD-4EFF-9DD2-C7A2BFCE0ACA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CS1", "CS1.csproj", "{AD20FA90-EADD-4EFF-9DD2-C7A2BFCE0ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "staticfunc", "..\staticfunc\staticfunc.csproj", "{D1F40304-A958-4A28-A78E-4C700C5EEEED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{AD20FA90-EADD-4EFF-9DD2-C7A2BFCE0ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD20FA90-EADD-4EFF-9DD2-C7A2BFCE0ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD20FA90-EADD-4EFF-9DD2-C7A2BFCE0ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1F40304-A958-4A28-A78E-4C700C5EEEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F40304-A958-4A28-A78E-4C700C5EEEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F40304-A958-4A28-A78E-4C700C5EEEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F40304-A958-4A28-A78E-4C700C5EEEED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
