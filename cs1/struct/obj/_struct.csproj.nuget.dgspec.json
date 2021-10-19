@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\DevResult\\git\\labtop\\github_vscs\\cs1\\struct\\_struct.csproj": {}
+    "z:\\DevResult\\git\\labtop\\github_vscs\\cs1\\struct\\_struct.csproj": {}
   },
   "projects": {
-    "Z:\\DevResult\\git\\labtop\\github_vscs\\cs1\\struct\\_struct.csproj": {
+    "z:\\DevResult\\git\\labtop\\github_vscs\\cs1\\struct\\_struct.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\DevResult\\git\\labtop\\github_vscs\\cs1\\struct\\_struct.csproj",
+        "projectUniqueName": "z:\\DevResult\\git\\labtop\\github_vscs\\cs1\\struct\\_struct.csproj",
         "projectName": "_struct",
-        "projectPath": "Z:\\DevResult\\git\\labtop\\github_vscs\\cs1\\struct\\_struct.csproj",
+        "projectPath": "z:\\DevResult\\git\\labtop\\github_vscs\\cs1\\struct\\_struct.csproj",
         "packagesPath": "C:\\Users\\leeji\\.nuget\\packages\\",
-        "outputPath": "Z:\\DevResult\\git\\labtop\\github_vscs\\cs1\\struct\\obj\\",
+        "outputPath": "z:\\DevResult\\git\\labtop\\github_vscs\\cs1\\struct\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leeji\\AppData\\Roaming\\NuGet\\NuGet.Config",

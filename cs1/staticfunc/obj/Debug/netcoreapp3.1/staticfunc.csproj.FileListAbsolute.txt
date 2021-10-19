@@ -1,0 +1,14 @@
+z:\DevResult\git\labtop\github_vscs\cs1\staticfunc\bin\Debug\netcoreapp3.1\staticfunc.exe
+z:\DevResult\git\labtop\github_vscs\cs1\staticfunc\bin\Debug\netcoreapp3.1\staticfunc.deps.json
+z:\DevResult\git\labtop\github_vscs\cs1\staticfunc\bin\Debug\netcoreapp3.1\staticfunc.runtimeconfig.json
+z:\DevResult\git\labtop\github_vscs\cs1\staticfunc\bin\Debug\netcoreapp3.1\staticfunc.runtimeconfig.dev.json
+z:\DevResult\git\labtop\github_vscs\cs1\staticfunc\bin\Debug\netcoreapp3.1\staticfunc.dll
+z:\DevResult\git\labtop\github_vscs\cs1\staticfunc\bin\Debug\netcoreapp3.1\staticfunc.pdb
+z:\DevResult\git\labtop\github_vscs\cs1\staticfunc\obj\Debug\netcoreapp3.1\staticfunc.csproj.AssemblyReference.cache
+z:\DevResult\git\labtop\github_vscs\cs1\staticfunc\obj\Debug\netcoreapp3.1\staticfunc.GeneratedMSBuildEditorConfig.editorconfig
+z:\DevResult\git\labtop\github_vscs\cs1\staticfunc\obj\Debug\netcoreapp3.1\staticfunc.AssemblyInfoInputs.cache
+z:\DevResult\git\labtop\github_vscs\cs1\staticfunc\obj\Debug\netcoreapp3.1\staticfunc.AssemblyInfo.cs
+z:\DevResult\git\labtop\github_vscs\cs1\staticfunc\obj\Debug\netcoreapp3.1\staticfunc.csproj.CoreCompileInputs.cache
+z:\DevResult\git\labtop\github_vscs\cs1\staticfunc\obj\Debug\netcoreapp3.1\staticfunc.dll
+z:\DevResult\git\labtop\github_vscs\cs1\staticfunc\obj\Debug\netcoreapp3.1\staticfunc.pdb
+z:\DevResult\git\labtop\github_vscs\cs1\staticfunc\obj\Debug\netcoreapp3.1\staticfunc.genruntimeconfig.cache
