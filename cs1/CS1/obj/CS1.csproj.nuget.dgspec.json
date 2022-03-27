@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "z:\\DevResult\\git\\labtop\\github_vscs\\cs1\\CS1\\CS1.csproj": {}
+    "D:\\DevResult\\git\\labtop\\github_vscs\\cs1\\CS1\\CS1.csproj": {}
   },
   "projects": {
-    "z:\\DevResult\\git\\labtop\\github_vscs\\cs1\\CS1\\CS1.csproj": {
+    "D:\\DevResult\\git\\labtop\\github_vscs\\cs1\\CS1\\CS1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "z:\\DevResult\\git\\labtop\\github_vscs\\cs1\\CS1\\CS1.csproj",
+        "projectUniqueName": "D:\\DevResult\\git\\labtop\\github_vscs\\cs1\\CS1\\CS1.csproj",
         "projectName": "CS1",
-        "projectPath": "z:\\DevResult\\git\\labtop\\github_vscs\\cs1\\CS1\\CS1.csproj",
+        "projectPath": "D:\\DevResult\\git\\labtop\\github_vscs\\cs1\\CS1\\CS1.csproj",
         "packagesPath": "C:\\Users\\leeji\\.nuget\\packages\\",
-        "outputPath": "z:\\DevResult\\git\\labtop\\github_vscs\\cs1\\CS1\\obj\\",
+        "outputPath": "D:\\DevResult\\git\\labtop\\github_vscs\\cs1\\CS1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leeji\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

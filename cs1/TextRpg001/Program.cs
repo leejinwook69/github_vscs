@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 
 class Player
@@ -15,21 +11,21 @@ class Player
     {
         Console.WriteLine("--------------------------------");
         Console.WriteLine("공격력 : " + AT);
-        Console.WriteLine("체력 : " + HP+"/"+MAXHP);
+        Console.WriteLine("체력 : " + HP + "/" + MAXHP);
         Console.WriteLine("--------------------------------");
     }
 
     public void Heal(int HealHp)
     {
-        while(HealHp > 0)
+        while (HealHp > 0)
         {
-            if(HP<MAXHP)
+            if (HP < MAXHP)
             {
                 HP++;
             }
             HealHp--;
         }
-        
+
     }
     public void Enhence(int EnhenceAt)
     {
@@ -71,7 +67,7 @@ namespace TextRpg001
                     return STARTSELECT.SELECTNONE;
             }
 
-            
+
         }
 
         static void Town(Player _Player)
@@ -116,7 +112,7 @@ namespace TextRpg001
             while (true)
             {
                 STARTSELECT SelectCheck = StartSelect();
-                
+
                 switch (SelectCheck)
                 {
                     case STARTSELECT.SELECTTOWN:

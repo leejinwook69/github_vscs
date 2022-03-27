@@ -12,3 +12,17 @@ Z:\DevResult\git\labtop\github_vscs\cs1\TextRpg001\obj\Debug\netcoreapp3.1\TextR
 Z:\DevResult\git\labtop\github_vscs\cs1\TextRpg001\obj\Debug\netcoreapp3.1\TextRpg001.dll
 Z:\DevResult\git\labtop\github_vscs\cs1\TextRpg001\obj\Debug\netcoreapp3.1\TextRpg001.pdb
 Z:\DevResult\git\labtop\github_vscs\cs1\TextRpg001\obj\Debug\netcoreapp3.1\TextRpg001.genruntimeconfig.cache
+D:\DevResult\git\labtop\github_vscs\cs1\TextRpg001\bin\Debug\netcoreapp3.1\TextRpg001.exe
+D:\DevResult\git\labtop\github_vscs\cs1\TextRpg001\bin\Debug\netcoreapp3.1\TextRpg001.deps.json
+D:\DevResult\git\labtop\github_vscs\cs1\TextRpg001\bin\Debug\netcoreapp3.1\TextRpg001.runtimeconfig.json
+D:\DevResult\git\labtop\github_vscs\cs1\TextRpg001\bin\Debug\netcoreapp3.1\TextRpg001.runtimeconfig.dev.json
+D:\DevResult\git\labtop\github_vscs\cs1\TextRpg001\bin\Debug\netcoreapp3.1\TextRpg001.dll
+D:\DevResult\git\labtop\github_vscs\cs1\TextRpg001\bin\Debug\netcoreapp3.1\TextRpg001.pdb
+D:\DevResult\git\labtop\github_vscs\cs1\TextRpg001\obj\Debug\netcoreapp3.1\TextRpg001.csproj.AssemblyReference.cache
+D:\DevResult\git\labtop\github_vscs\cs1\TextRpg001\obj\Debug\netcoreapp3.1\TextRpg001.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevResult\git\labtop\github_vscs\cs1\TextRpg001\obj\Debug\netcoreapp3.1\TextRpg001.AssemblyInfoInputs.cache
+D:\DevResult\git\labtop\github_vscs\cs1\TextRpg001\obj\Debug\netcoreapp3.1\TextRpg001.AssemblyInfo.cs
+D:\DevResult\git\labtop\github_vscs\cs1\TextRpg001\obj\Debug\netcoreapp3.1\TextRpg001.csproj.CoreCompileInputs.cache
+D:\DevResult\git\labtop\github_vscs\cs1\TextRpg001\obj\Debug\netcoreapp3.1\TextRpg001.dll
+D:\DevResult\git\labtop\github_vscs\cs1\TextRpg001\obj\Debug\netcoreapp3.1\TextRpg001.pdb
+D:\DevResult\git\labtop\github_vscs\cs1\TextRpg001\obj\Debug\netcoreapp3.1\TextRpg001.genruntimeconfig.cache
