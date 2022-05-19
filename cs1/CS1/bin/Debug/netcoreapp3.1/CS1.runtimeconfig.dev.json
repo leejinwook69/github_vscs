@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\leeji\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\leeji\\.nuget\\packages"
-    ]
-  }
-}
